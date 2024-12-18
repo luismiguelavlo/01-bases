@@ -10,4 +10,4 @@ const monster = new Character(2, "Golem", 160, 15);
 
 console.log("Iniciando la batalla...");
 battle.battle(hero, monster);
-console.log("Batalla terminada!");
+console.log("Batalla terminada!!!");
